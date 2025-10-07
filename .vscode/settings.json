@@ -1,0 +1,13 @@
+{
+  // Enable CSS validation
+  "css.validate": true,
+  // Map file types to enable Tailwind IntelliSense
+  "tailwindCSS.includeLanguages": {
+    "typescript": "javascript",
+    "typescriptreact": "javascriptreact",
+    "css": "css",
+    "postcss": "css"
+  },
+  // Enable autocomplete in all class attributes
+  "tailwindCSS.emmetCompletions": true
+}
